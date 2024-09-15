@@ -8,9 +8,9 @@ My fraction class program will implement overloading operators and LCM and LCD. 
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | [Main](main.cpp/)       | Main program for my fraction class                 |
-|   2   | header.cpp      | Header file for my main program                    |
-|   3   | data.txt        | input file text                                    |
+|   1   | [Main.cpp](main.cpp/)       | Main program for my fraction class     |
+|   2   | [Header File](headerfiles/) | Header file for my main program        |
+|   3   | [Input File](data.txt/)     | Input file for data                    |
 
 ### Instructions
 
