@@ -2,7 +2,7 @@
 ### Fatima Marquez
 ### Description:
 
-My fraction class program will implement overloading operators and LCM and LCD. It will also give examples on method access for Public and Private methods. 
+This program implements a class called Fraction that includes overloaded operators ( + - * / ) to do between fractions. It uses GCD, LCD, and LCM to simplify the fractions.
 
 ### Files
 
