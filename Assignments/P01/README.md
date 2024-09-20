@@ -2,7 +2,7 @@
 ### Fatima Marquez
 ### Description:
 
-This program implements a class called Fraction that includes overloaded operators ( + - * / ) to do between fractions. It uses GCD, LCD, and LCM to simplify the fractions.
+This program implements a class called Fraction that includes overloaded operators ( + - * / ) to do between fractions. It uses GCD, LCD, and LCM to simplify the fractions and also shows how private and public methods are implemented. It also includes a parse function that I learned outside of class to help convert my string into fractions.
 
 ### Files
 
