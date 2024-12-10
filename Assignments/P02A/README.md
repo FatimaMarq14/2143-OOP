@@ -12,4 +12,4 @@
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | [hello_ncurses.cpp](hello_ncurses.cpp/) | Test program for my ncurses class|
+|   1   | [hello_ncurses.cpp](hello_ncurses.cpp/) | Test program for ncurses   |
