@@ -1,5 +1,7 @@
 ## Assignments
 
+The following are the assignments and Programs that we turned in throughout the semester.
+
 |  #  | Folder Link   | Assignment Description  |
 | :-: | -----------   | ----------------------- |
 |  1  | [A05](A05/)   | WSL Set Up              |
