@@ -1,6 +1,8 @@
 # Knucklebones Game Design
 ## Class Diagram
 
+This class diagram will be some of the implementations I will use for my Knucklebones program. 
+
 
 ### Dice Class
 - **Attributes**:
