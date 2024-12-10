@@ -1,6 +1,6 @@
 ## Assignments
 
-The following are the assignments and Programs that we turned in throughout the semester.
+The following are the Assignments and Programs that we turned in throughout the semester.
 
 |  #  | Folder Link   | Assignment Description  |
 | :-: | -----------   | ----------------------- |
