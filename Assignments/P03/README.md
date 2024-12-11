@@ -1,4 +1,4 @@
-## P01 - Knucklebones game
+## P03 - Knucklebones game
 ### Fatima Marquez
 ### Description:
 
