@@ -2,8 +2,7 @@
 ## Fatima Marquez
 ### Description:
 
-This is my version of the Knucklebones game. Overall the sfml program will display the OOP concepts we learned in class. It includes the following:
-
+This is my version of the Knucklebones game. Overall the sfml program will display the OOP concepts we learned in class.The game showcases key principles such as classes, inheritance, and polymorphism, which were covered in our coursework. The program includes the following components:
 
 ## Files
 
