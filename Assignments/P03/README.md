@@ -14,8 +14,6 @@ This is my version of the Knucklebones game. Overall the sfml program will displ
 |   3   | [Dice.hpp](dice.hpp/) | Main program for my dice class     |
 |   4   | [roll_die.py](roll_die.py/) | Python program to show dice roll   |
 |   5   | [Grid.cpp](grid.cpp/) | Main program for my grid class     |
-|   5   | [GameWindow.cpp](GameWindow.cpp/) | Main program for my GameWindow class     |
-|   5   | [FontManager.cpp](FontManager.cpp/) | Main program for my FontManager class     |
-|   5   | [Button.cpp](Button.cpp/) | Main program for my Button class     |
-
-
+|   6   | [GameWindow.cpp](GameWindow.cpp/) | Main program for my GameWindow class     |
+|   7   | [FontManager.cpp](FontManager.cpp/) | Main program for my FontManager class     |
+|   8   | [Button.cpp](Button.cpp/) | Main program for my Button class     |
