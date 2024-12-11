@@ -120,8 +120,8 @@ public:
           dice("diceRoll/"),
           button(fontManager.getFont(), {150, 55}, {625, 520}, "Roll"),
           player(fontManager.getFont()),
-          topGrid(3, 3, 80.f, 8.f, 200.f, 200.f),  // First grid with smaller cells
-          bottomGrid(3, 3, 80.f, 8.f, 200.f, 500.f) {}  // Second grid, positioned below the first grid
+          topGrid(3, 3, 80.f, 8.f, 200.f, 200.f), 
+          bottomGrid(3, 3, 80.f, 8.f, 200.f, 500.f) {} 
 
     void run() {
         sf::Clock welcomeTimer;
