@@ -11,7 +11,7 @@ OUT = main
 
 # Rule for building the project
 $(OUT): $(SRC)
-	$(CXX) $(SRC) -o $(OUT) $(CXXFLAGS) $(LDFLAGS)  # This line should start with a tab
+	$(CXX) $(SRC) -o $(OUT) $(CXXFLAGS) $(LDFLAGS)  # This line should start with a tab or it gives errors!!!
 
 # Clean rule to remove compiled files
 clean:
