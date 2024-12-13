@@ -16,3 +16,5 @@ It uses GCD, LCD, and LCM to simplify the fractions and also shows how private a
 #### Sources:
 
 https://www.geeksforgeeks.org/how-to-split-a-string-in-cc-python-and-java/
+
+https://stackoverflow.com/questions/40009563/how-to-split-a-fraction-into-two-integers-c
