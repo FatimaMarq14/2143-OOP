@@ -1,8 +1,7 @@
 # Knucklebones Game Design
 ## Class Diagram
 
-This class diagram will be some of the implementations I will use for my Knucklebones program. 
-
+This class diagram will be some of the implementations I will use for my Knucklebones program. This is a draft to some ideas that were given to us in class and how they could potentially work and what they could potentially due. **Variables subject to change.**
 
 ### Dice Class
 - **Attributes**:
@@ -23,7 +22,6 @@ This class diagram will be some of the implementations I will use for my Knuckle
   - `name`: The players name or ID.
   - `score`: The players current score.
   - `dice_set`: A list or array of Dice objects that the player rolls.
-  - `player_board`: A 3x3 grid representing the players board for dice placement.
   - `player_stats`: Tracks players stats.
   
 - **Methods**:
@@ -85,9 +83,9 @@ This class diagram will be some of the implementations I will use for my Knuckle
 
 ### Necessary:
 - `player stats`
-- `score`
+- `grid`
 - `winner`
-- `first name`
+- `name`
 - `dice`
 
 ### Possible:
