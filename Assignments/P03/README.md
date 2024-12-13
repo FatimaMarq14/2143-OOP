@@ -36,4 +36,4 @@ SFML stands for Simple and Fast Multimedia Library. It is a free open source sof
 |   6   | [GameWindow.cpp](GameWindow.cpp/) | Main program for my GameWindow class     |
 |   7   | [FontManager.cpp](FontManager.cpp/) | Main program for my FontManager class     |
 |   8   | [Button.cpp](Button.cpp/) | Main program for my Button class     |
-|   9   | [MakeFile](make.txt/) | My make file (learned implementation in class) |
+|   9   | [MakeFile](MakeFile/) | My make file (learned implementation in class) |
