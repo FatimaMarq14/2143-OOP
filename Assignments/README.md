@@ -7,7 +7,7 @@ This repository contains all the assignments and programs submitted during the s
 |  1  | [A05](A05/)   | Initial setup and configuration of WSL |
 |  2  | [P01](P01/)   | Program 1 Fraction Class|
 |  3  | [P02A](P02A/) | Ncurses Set Up         |
-|  4  | [P02B](P02B/) | Class Diagram	outline fufute program.          |
+|  4  | [P02B](P02B/) | Class Diagram	outline for future program. |
 |  5  | [P02C]() | Ncurses Program Set Up        |
-|  6  | [P03](P03/)   | Implementation of the game "Knucklebones"           |
+|  6  | [P03](P03/)   | Implementation of the game "Knucklebones"|
 
