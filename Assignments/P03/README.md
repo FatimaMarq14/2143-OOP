@@ -2,7 +2,7 @@
 ## Fatima Marquez
 ### Description:
 
-This is my version of the Knucklebones game. Overall the sfml program will display the OOP concepts we learned in class. The game showcases key principles such as classes, inheritance, and polymorphism, which were covered in our coursework. The program includes the following components:
+This is my version of the Knucklebones game. Overall the SFML program will display the OOP concepts we learned in class. The game showcases key principles such as classes, inheritance, encapsulation, and polymorphism, which were covered in our coursework. The program includes the following components:
 
 ## SFML
 SFML stands for Simple and Fast Multimedia Library. It is a free open source software library that provides multimedia components on a computer.
