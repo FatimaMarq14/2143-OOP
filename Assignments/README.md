@@ -12,6 +12,6 @@ This repository contains all the assignments and programs submitted during the s
 |  6  | [P03](P03/)   | Implementation of the game "Knucklebones" + SFML|
 
 
-Overall I gained hands on experience and got to visually see  Object Oriented Programming concepts in class. On top of that I learned new terminal/bash commands that helped make development easier when doing the work at home. This has helped me not only simplify programming concepts that I previously struggled on, but also shortened the amount of time it took me to code and compile programs.
+Overall, I gained hands on experience and got to visually see  Object Oriented Programming concepts in class. On top of that I learned new terminal/bash commands that helped make development easier when doing the work at home. This has helped me not only simplify programming concepts that I previously struggled on, but also shortened the amount of time it took me to code and compile programs.
 
 Thank you! :)
